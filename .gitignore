@@ -1,2 +1,5 @@
-nbs/.ipynb_checkpoints
 MyCode/
+.ipynb_checkpoints/
+png-frames/
+tmp/
+
