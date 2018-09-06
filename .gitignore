@@ -1,5 +1,12 @@
 MyCode/
+<<<<<<< HEAD
 .ipynb_checkpoints/
 png-frames/
 tmp/
 
+=======
+nbs/.ipynb_checkpoints
+.ipynb_checkpoints/
+png-frames/
+tmp/
+>>>>>>> fdfab6f122a6500ed99256f737385bbf0cc499ba
